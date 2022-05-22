@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "head-nav": "/components/Head/Head",
+    "swiper-uni": "/components/Swiper/Swiper"
+  }
+}
